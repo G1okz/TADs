@@ -63,4 +63,4 @@ Este proyecto ilustra el manejo de estructuras de datos como pilas y colas, simu
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/G1okz/TADs.git
